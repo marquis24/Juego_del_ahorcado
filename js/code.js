@@ -207,17 +207,16 @@ function verificarVictoria() {
 let indiceImagen = 0; // Índice actual de imagen
 let intentosFallidos = 0; // Conteo de intentos fallidos
 const imagenes = [
-    "img_penjat/penjat_0.jpg",
-    "img_penjat/penjat_1.jpg",
-    "img_penjat/penjat_2.jpg",
-    "img_penjat/penjat_3.jpg",
-    "img_penjat/penjat_4.jpg",
-    "img_penjat/penjat_5.jpg",
-    "img_penjat/penjat_6.jpg",
-    "img_penjat/penjat_7.jpg",
-    "img_penjat/penjat_8.jpg",
-    "img_penjat/penjat_9.jpg",
-    "img_penjat/penjat_10.jpg",
+    "img_ahorcado/ahorcado_1.jpg",
+    "img_ahorcado/ahorcado_2.jpg",
+    "img_ahorcado/ahorcado_3.jpg",
+    "img_ahorcado/ahorcado_4.jpg",
+    "img_ahorcado/ahorcado_5.jpg",
+    "img_ahorcado/ahorcado_6.jpg",
+    "img_ahorcado/ahorcado_7.jpg",
+    "img_ahorcado/ahorcado_8.jpg",
+    "img_ahorcado/ahorcado_9.jpg",
+    "img_ahorcado/ahorcado_10.jpg",
 ];
 
 // Función de actualización de imagen en caso de fallar
